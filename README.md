@@ -1,4 +1,4 @@
-#  🍽️ Zomato-Query-360-Unlocking-Food-Orders-Insights-with-SQL. 🚚
+#  🍽️ ZomatoQuery 360°: Unlocking Food, Orders & Insights with SQL. 🚚
 ----
 
 This project is a **Zomato SQL Case Study** that uses SQL queries to investigate revenue insights, delivery patterns, restaurant performance, and customer behaviour.
